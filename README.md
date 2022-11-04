@@ -13,4 +13,4 @@
 -----
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahrianggara&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fahrianggara&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrianggara&layout=compact&theme=gotham&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
