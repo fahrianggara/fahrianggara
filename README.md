@@ -12,5 +12,7 @@
 
 -----
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahrianggara&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrianggara&layout=compact&theme=gotham&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrianggara&layout=compact&theme=gotham&hide_border=true&show_icons=true" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahrianggara&&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide_border=true" alt="My Github Stats">
+</p>
