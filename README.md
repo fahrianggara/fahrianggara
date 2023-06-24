@@ -9,8 +9,3 @@
        alt="snake" />
   </a>
 </div>
-
------
-
-## Qoutes
-> <p style='text-align: right; font-size: 20px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et netus et malesuada fames ac. Imperdiet proin fermentum leo vel orci porta. Lacinia at quis risus sed. Amet mauris commodo quis imperdiet massa. Mauris sit amet massa vitae tortor condimentum lacinia quis. Neque viverra justo nec ultrices dui sapien. At imperdiet dui accumsan sit amet. Ut faucibus pulvinar elementum integer enim.</p>
