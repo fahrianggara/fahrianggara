@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://fahrianggara.gaspol.dev/" target="_blank">
+  <a href="https://fahrianggara.my.id/" target="_blank">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" />
   </a>
